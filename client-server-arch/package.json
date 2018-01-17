@@ -1,0 +1,21 @@
+{
+  "name": "client-server-arch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "build/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "node build/server.js",
+    "client": "node build/client.js"
+  },
+  "author": "Kathryn Brusewitz, EuiYul Song",
+  "license": "ISC",
+  "dependencies": {
+    "net": "^1.0.2",
+    "ip": "^1.1.4",
+    "process": "^0.11.9",
+    "@types/node": "^7.0.5",
+    "geolib": "^2.0.22",
+    "readline-sync": "^1.4.5"
+  }
+}
