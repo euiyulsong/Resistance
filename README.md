@@ -1,4 +1,4 @@
-# Architected Resistance
+# The Resistance
 
 This repo contains code for three different versions of an application to manage political resistance actions
 
