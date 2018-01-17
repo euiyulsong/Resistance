@@ -1,10 +1,9 @@
 # The Resistance
 
-This repo contains code for three different versions of an application to manage political resistance actions
+This repo contains code for two different versions of an application to manage political resistance actions
 
 1. Client-Server
 2. Layered (N-Tier)
-3. Object-Oriented
 
 ### Architectural Analysis
 
